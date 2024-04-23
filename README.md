@@ -61,8 +61,6 @@ cd Video-Compressor-Service
 </table>
 
 ## 機能一覧
-![image](https://github.com/Aki158/File-Manipulator-Program/assets/119317071/f653ea6e-90cf-4106-909a-c21545e1a12f)
-
 | 機能 | 内容 |
 | ------- | ------- |
 | reverse | inputpathにあるファイルを受け取り、outputpathにinputpathの内容を逆にした新しいファイルを作成します。 |
