@@ -69,7 +69,7 @@ cd Video-Compressor-Service
 | replace-string | inputpathにあるファイルの内容から文字列'needle'を検索し、'needle'を'newstring'に置き換えます。 |
 | エラーハンドリング | コマンドが正しく入力されていない場合は、`Command not found...`というメッセージが表示されて終了します。<br>コマンドの入力は、認識されていないため、ファイルは生成されません。 |
 
-## 📑参考文献
+## 参考文献
 ### 公式ドキュメント
 - [Python](https://docs.python.org/ja/3/)
 
