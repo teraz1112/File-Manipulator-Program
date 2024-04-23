@@ -15,18 +15,20 @@
 - copy
 - duplicate-contents
 - replace-string
-
+## 学習内容
+- Linux
+- データストリーム
 
 ## インストール
 
 1. リポジトリをクローンする
 ```
-git clone https://github.com/teraz1112/Video-Compressor-Service.git
+git clone https://github.com/teraz1112/File-Manipulator-Program.git
 ```
 
 2. クローンしたリポジトリへ移動する
 ```
-cd Video-Compressor-Service
+cd File-Manipulator-Program
 ```
 
 ## 使用方法
